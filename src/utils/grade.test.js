@@ -1,5 +1,5 @@
 
-const { toCelsius, toFahrenheit, movingAverage } = require('./grads');
+const { toCelsius, toFahrenheit, movingAverage } = require('./grade');
 
 describe('Función toCelsius', () => {
     //caso  32°F → 0.0°C
